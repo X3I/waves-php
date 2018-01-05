@@ -1,4 +1,4 @@
 # waves-php
 Basic PHP class for interacting with waves platform.
 
-Very basic and unfinished atm. PR's welcome.
+Donate some WAVES: 3P9aNd3UngedfgxbA5ky5ZfBXyfqhVCikBJ
